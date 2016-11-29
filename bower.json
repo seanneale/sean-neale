@@ -1,0 +1,11 @@
+{
+  "name": "sean-neale",
+  "version": "0.0.1",
+  "main": "",
+  "private": true,
+  "dependencies": {
+    "j-toker": "^0.0.9",
+    "bootstrap": "3.0.0",
+    "bootstrap-sass": "^3.3.7"
+  }
+}
