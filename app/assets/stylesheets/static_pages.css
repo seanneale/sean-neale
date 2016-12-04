@@ -1,0 +1,56 @@
+/*.section {
+	min-height: 500px;
+}*/
+
+/*#section1 {
+	position: relative;
+}
+*/
+
+/*html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+}
+
+*//*.outer {
+	min-height: 500px;
+	border: 2px solid black;
+	position: relative;
+}*/
+
+/*.inner {
+	display: inline-block;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	height: 30%;
+	width: 50%;
+	margin-top: -15%;
+	margin-left: -25%;
+	border: 2px solid blue;
+}*/
+
+body {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	background: #FFE6A4;
+	color: black;
+}
+
+h1 {
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	text-align: center;
+	margin-top: 200px;
+}
+
+p {
+	margin-top: 50px;
+}
+
+.row {
+	min-height: 500px;
+}

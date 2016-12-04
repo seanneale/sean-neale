@@ -16,6 +16,7 @@
 //= require pubsub-js/src/pubsub.js
 //= require j-toker/dist/jquery.j-toker.js
 //= require bootstrap-sass/assets/javascripts/bootstrap-sprockets
+//= require jquery.fullpage
 //= require_tree .
 
 $.auth.configure({

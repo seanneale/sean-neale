@@ -18,6 +18,8 @@ gem 'coffee-rails', '~> 4.2'
 gem 'unicorn'
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
+gem 'font-awesome-sass'
+gem 'fullpagejs-rails'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
 gem 'rack-cors', :require => 'rack/cors'
